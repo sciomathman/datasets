@@ -1,0 +1,1 @@
+5. If a program manipulates a large amount of data, it does so in a small number of ways. [89]

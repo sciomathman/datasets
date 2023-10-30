@@ -1,0 +1,1 @@
+2. Functions delay binding; data structures induce binding. Moral: Structure data late in the programming process. [114]

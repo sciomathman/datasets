@@ -1,0 +1,1 @@
+120. Adapting old programs to fit new machines usually means adapting new machines to behave like old ones. [107]

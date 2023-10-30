@@ -1,0 +1,1 @@
+6. Symmetry is a complexity-reducing concept (co-routines include subroutines); seek it everywhere. [99]

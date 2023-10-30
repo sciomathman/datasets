@@ -1,0 +1,1 @@
+76. It is the user who should parameterize procedures, not their creators. [74]

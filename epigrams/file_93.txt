@@ -1,0 +1,1 @@
+94. Interfaces keep things tidy, but don't accelerate growth: Functions do. [75]
